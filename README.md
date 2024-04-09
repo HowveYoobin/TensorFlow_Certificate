@@ -4,9 +4,9 @@
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ### Week 1
 #### Assignment
-* Housing Prices (C1W1_Assignment.ipynb)
+* ~Housing Prices (C1W1_Assignment.ipynb)~
 #### Ungraded Labs
-* Hello World Neural Network (C1_W1_Lab_1_hello_world_nn.ipynb)
+* ~Hello World Neural Network (C1_W1_Lab_1_hello_world_nn.ipynb)~
 ### Week 2
 #### Assignment
 * Handwriting Recognition (C1W2_Assignment.ipynb)
