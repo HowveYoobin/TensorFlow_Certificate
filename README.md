@@ -9,23 +9,23 @@
 * ~Hello World Neural Network (C1_W1_Lab_1_hello_world_nn.ipynb)~
 ### Week 2
 #### Assignment
-* Handwriting Recognition (C1W2_Assignment.ipynb)
+* ~Handwriting Recognition (C1W2_Assignment.ipynb)~
 #### Ungraded Labs
-1. Beyond Hello World, A Computer Vision Example (C1_W2_Lab_1_beyond_hello_world.ipynb)
-2. Callbacks (C1_W2_Lab_2_callbacks.ipynb)
+1. ~Beyond Hello World, A Computer Vision Example (C1_W2_Lab_1_beyond_hello_world.ipynb)~
+2. ~Callbacks (C1_W2_Lab_2_callbacks.ipynb)~
 ### Week 3
 #### Assignment
-* Improve MNIST with Convolutions (C1W3_Assignment.ipynb)
+* ~Improve MNIST with Convolutions (C1W3_Assignment.ipynb)~
 #### Ungraded Labs
-1. Improving Accuracy with Convolutions (C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)
-2. Exploring Convolutions (C1_W3_Lab_2_exploring_convolutions.ipynb)
+1. ~Improving Accuracy with Convolutions (C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)~
+2. ~Exploring Convolutions (C1_W3_Lab_2_exploring_convolutions.ipynb)~
 ### Week 4
 #### Assignment
-* Handling Complex Images (C1W4_Assignment.ipynb)
+* ~Handling Complex Images (C1W4_Assignment.ipynb)~
 #### Ungraded Labs
-1. Image Generator (C1_W4_Lab_1_image_generator_no_validation.ipynb)
-2, Image Generator with Validation (C1_W4_Lab_2_image_generator_with_validation.ipynb)
-3. Compacted Images (C1_W4_Lab_3_compacted_images.ipynb)
+1. ~Image Generator (C1_W4_Lab_1_image_generator_no_validation.ipynb)~
+2, ~Image Generator with Validation (C1_W4_Lab_2_image_generator_with_validation.ipynb)~
+3. ~Compacted Images (C1_W4_Lab_3_compacted_images.ipynb)~
 ## C2 - Convolutional Neural Networks in TensorFlow
 ### Week 1
 #### Assignment
